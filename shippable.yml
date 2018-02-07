@@ -1,0 +1,7 @@
+resources:
+  - name: github-private-gitRepo
+    type: gitRepo
+    integration: github
+    pointer:
+      sourceName: scriptnull/org_private
+      branch: master
