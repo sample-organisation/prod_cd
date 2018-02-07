@@ -1,7 +1,7 @@
 resources:
-  - name: github-private-gitRepo
+  - name: github-private-fork-gitRepo
     type: gitRepo
     integration: github
     pointer:
-      sourceName: scriptnull/org_private
+      sourceName: sample-organisation/org_private
       branch: master
