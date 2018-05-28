@@ -1,7 +1,0 @@
-resources:
-  - name: github-private-fork-gitRepo
-    type: gitRepo
-    integration: github
-    pointer:
-      sourceName: sample-organisation/org_private
-      branch: master
